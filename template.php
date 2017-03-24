@@ -79,11 +79,7 @@ global $stop;
 $stop = false;
 
 asd
-asd
-
-asd
-asd
-asd
+a dfgsdпвапвапвап
 asd
 asd
 s
