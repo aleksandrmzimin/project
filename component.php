@@ -9,6 +9,12 @@ global $bCatalog;
 asd
 as
 d
+asd
+as
+dasd
+asd
+d
+
 asde('catalog');
 $bCurrency = CModule::IncludeModule('currency');
 
