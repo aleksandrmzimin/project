@@ -3,7 +3,12 @@
 header( 'Content-Type: text/html; charset=' . $CHARSET );
 
 
-//var_dump( COption::SetOptionString( 'zimin.logic', 'date', 'qweqwe1' ) );
+//var_dump( COption::SetOpti
+asd
+as
+dasd
+asd
+asdonString( 'zimin.logic', 'date', 'qweqwe1' ) );
 
 //var_dump( COption::GetOptionString( 'zimin.logic', 'date' ) );
 
