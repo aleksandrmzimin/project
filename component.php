@@ -6,8 +6,10 @@ define ('DESCRIPTION_SIZE', 500);
 if(!CModule::IncludeModule("iblock")) die();
 
 global $bCatalog;
-global $bCurrency;
-$bCatalog = CModule::IncludeModule('catalog');
+asd
+as
+d
+asde('catalog');
 $bCurrency = CModule::IncludeModule('currency');
 
 //$file = fopen($_SERVER['DOCUMENT_ROOT']. "/yandex.txt","w+");
